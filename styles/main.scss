@@ -24,7 +24,6 @@ button {
 .wrapper {
   height: 100vh;
   display: flex;
-  // align-items: center;
   justify-content: center;
 }
 
@@ -37,11 +36,6 @@ main {
 #new {
   padding: 2rem 1.5rem 4rem;
   color: #58595b;
-}
-
-.new-header {
-  display: flex;
-  flex-direction: column;
 }
 
 .social-networks {
